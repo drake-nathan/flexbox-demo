@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "deinsoftware.arrow-function-snippets",
+    "exodiusstudios.comment-anchors",
+    "clinyong.vscode-css-modules",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "yoavbls.pretty-ts-errors",
+    "meganrogge.template-string-converter",
+    "pflannery.vscode-versionlens"
+  ]
+}
