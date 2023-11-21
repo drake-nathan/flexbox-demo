@@ -12,7 +12,14 @@ Then, clone this repo and run `yarn` to install all the dependencies.
 
 Finally, run `yarn dev` to start the development server. You can then open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-## Learn More
+## Links and whatnot
+
+- [Flexbox Froggy (AKA Flexbox 101)](https://flexboxfroggy.com/)
+- [Flexbox or Grid?](https://www.youtube.com/watch?v=3elGSZSWTbM&pp=ygUca2V2aW4gcG93ZWxsIGZsZXhib3ggdnMgZ3JpZA%3D%3D)
+- [Zod (Data Validator)](https://zod.dev)
+- [React Query (Data Fetching)](https://tanstack.com/query/latest)
+
+### Learn More (about Next.js)
 
 To learn more about Next.js, take a look at the following resources:
 
