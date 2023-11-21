@@ -1,12 +1,10 @@
 "use client";
 
-import { useProducts } from "../hooks/useProducts";
+import { useProducts } from "../../hooks/useProducts";
 import Card from "./Card";
 import styles from "./products.module.css";
 
-type Props = {};
-
-const Products = ({}: Props) => {
+const Products = () => {
   const { data, error } = useProducts();
 
   return (

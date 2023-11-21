@@ -15,9 +15,9 @@ const Card = ({ product }: Props) => {
       </div>
 
       <div className={st.lowerContainer}>
-        <div>{product.title}</div>
-        <div>{product.category}</div>
-        <div>${product.price}</div>
+        <h4>{product.title}</h4>
+        <p>{product.category}</p>
+        <p>${product.price}</p>
       </div>
     </div>
   );
