@@ -1,10 +1,17 @@
 :root {
-  background-color: white;
+  --color-text: black;
+  --color-background: white;
+  --color-hover: gray;
+
+  background-color: var(--color-background);
+  color: var(--color-text);
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    background-color: black;
+    --color-text: white;
+    --color-background: black;
+    --color-hover: lightgray;
   }
 
   html {
