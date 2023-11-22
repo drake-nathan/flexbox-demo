@@ -16,6 +16,7 @@ Finally, run `yarn dev` to start the development server. You can then open [http
 
 - [Flexbox Froggy (AKA Flexbox 101)](https://flexboxfroggy.com/)
 - [Flexbox or Grid?](https://www.youtube.com/watch?v=3elGSZSWTbM&pp=ygUca2V2aW4gcG93ZWxsIGZsZXhib3ggdnMgZ3JpZA%3D%3D)
+- [em vs rem](https://www.youtube.com/watch?v=_-aDOAMmDHI&pp=ygUWa2V2aW4gcG93ZWxsIGVtIHZzIHJlbQ%3D%3D)
 - [Zod (Data Validator)](https://zod.dev)
 - [React Query (Data Fetching)](https://tanstack.com/query/latest)
 
