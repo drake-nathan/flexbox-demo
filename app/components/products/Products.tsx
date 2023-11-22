@@ -8,7 +8,7 @@ const Products = () => {
   const { data, error } = useProducts();
 
   return (
-    <div className={styles.grid}>
+    <div className={styles.container}>
       {error && <p>{error.message}</p>}
       {data &&
         data.map((product) => <Card product={product} key={product.id} />)}
